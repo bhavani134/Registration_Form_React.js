@@ -1,0 +1,59 @@
+h6 {
+    color: rgb(236, 8, 8);
+}
+
+h1 {
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: aqua;
+    font-size: 200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+b {
+    color: red;
+}
+
+.container-f {
+    background-color: rgb(87, 6, 193);
+    border-color: rgb(1, 13, 13);
+}
+
+.col-6 {
+    align-items: start;
+}
+
+.form-group :hover {
+    background: rgb(205, 235, 242);
+}
+
+label:hover {
+    transition: 0.5s;
+    text-transform: uppercase;
+    color: black;
+}
+
+label {
+    color: rgb(229, 231, 240);
+    font-size: 15px;
+    font-family: cursive;
+}
+
+#button:hover {
+    background-color: #28f247;
+    transition: 0.7s;
+}
+
+Form {
+    margin: 5%;
+}
+
+.form-container {
+    background-image: url('./formbackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
